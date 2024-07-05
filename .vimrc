@@ -5,3 +5,4 @@ set tabstop=4
 set shiftwidth=4
 syntax on
 set background=dark
+colorscheme desert
