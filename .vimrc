@@ -1,8 +1,8 @@
 set nu
 set mouse-=a
 set expandtab
-set tabstop=3
-set shiftwidth=3
+set tabstop=4
+set shiftwidth=4
 syntax on
 set background=dark
 colorscheme desert
